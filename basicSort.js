@@ -1,4 +1,5 @@
 let nums = [18, 12, 72, 99, 4, 1]
+let words = ["Bob", "Charlie", "Alpha", "Zulu", "Yankee", "Xray"]
 let sort = (listOfItems) => {
     let counter = 0
     let arraySize = listOfItems.length
@@ -17,4 +18,6 @@ let sort = (listOfItems) => {
     }
 }
 sort(nums)
+sort(words)
 console.log(nums)
+console.log(words)
