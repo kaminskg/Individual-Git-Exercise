@@ -1,5 +1,4 @@
 module.exports = (listOfItems) => {
-    let counter = 0
     let arraySize = listOfItems.length
     for (let i = 0; i < arraySize ; i++) {
         let smallestNumber = listOfItems[i]
