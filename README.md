@@ -15,6 +15,6 @@ A simple JavaScript program which does a basic selection sort. The purpose of th
 
 ## How to Use It:
 1. Go to the sort-array.js files
-2. edit the nums or words arrays to your likings
+2. Edit the nums or words arrays to your likings
 3. Once you are happy with both of the arrays, in the terminal, type `node sort-arrays.js` in the terminal
 4. See the sorted arrays print out in the terminal!
