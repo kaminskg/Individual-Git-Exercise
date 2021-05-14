@@ -13,4 +13,6 @@ module.exports = (listOfItems) => {
         listOfItems[i] = smallestNumber
         listOfItems[index] = temp
     }
+    sortedArray = listOfItems
+    return sortedArray
 }
