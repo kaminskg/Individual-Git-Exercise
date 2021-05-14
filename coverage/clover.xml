@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1621026164288" clover="3.2.0">
+  <project timestamp="1621026164288" name="All files">
+    <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="17" coveredelements="17" complexity="0" loc="14" ncloc="14" packages="1" files="1" classes="1"/>
+    <file name="basicSort.js" path="D:\Documents\GitHub\Individual-Git-Exercise\basicSort.js">
+      <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="12" type="stmt"/>
+      <line num="5" count="12" type="stmt"/>
+      <line num="6" count="12" type="stmt"/>
+      <line num="7" count="39" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="8" type="stmt"/>
+      <line num="9" count="8" type="stmt"/>
+      <line num="12" count="12" type="stmt"/>
+      <line num="13" count="12" type="stmt"/>
+      <line num="14" count="12" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
