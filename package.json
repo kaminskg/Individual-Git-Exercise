@@ -1,0 +1,23 @@
+{
+  "name": "Individual-Git-Exercise",
+  "version": "1.0.0",
+  "description": "# Table of Contents  | [Prerequisite](#prerequisite)| |---------------------| | [What the Feature Is](#what-the-feature-is)| | [How to Use It](#how-to-use-it)|",
+  "main": "basicSort.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaminskg/Individual-Git-Exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaminskg/Individual-Git-Exercise/issues"
+  },
+  "homepage": "https://github.com/kaminskg/Individual-Git-Exercise#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
