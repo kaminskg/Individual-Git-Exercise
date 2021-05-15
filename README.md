@@ -14,7 +14,7 @@
 A simple JavaScript program which does a basic selection sort. The purpose of this exercise is to showcase my usage of Github for COSC 499. With this program, you can sort either words (strings/chars) or numbers(ints, floats, doubles, etc..)
 
 ## How to Use It:
-1. Go to the sort-array.js files
+1. Go to the sort-array.js file
 2. Edit the nums or words arrays to your likings
-3. Once you are happy with both of the arrays, in the terminal, type `node sort-arrays.js` in the terminal
+3. Once you are happy with both of the arrays, in the terminal type the following command: `node sort-arrays.js` 
 4. See the sorted arrays print out in the terminal!
